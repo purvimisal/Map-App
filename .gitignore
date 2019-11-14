@@ -12,6 +12,7 @@ node_modules/
 *.so
 
 *.so
+.vscode/launch.json
 
 # Packages #
 ############
